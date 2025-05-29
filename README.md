@@ -214,7 +214,7 @@ You can find a video demonstration of the system's key features and functionalit
 Here are a few screenshots showcasing the system in action:
 
 1.  **Intelligent Query Page with Real-time Data Response**
-    ![Intelligent Query Demo](docs/intelligent_query_demo.png)
+    ![Intelligent Query Demo](https://github.com/GauravAnand30/Finance_Rag/blob/main/image.png)
     *(Replace `docs/intelligent_query_demo.png` with your actual image path)*
 
 2.  **Real-Time Data Page with Interactive Chart**
