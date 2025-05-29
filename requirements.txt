@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+# talib-binary  <--- NOW COMMENTED OUT
+langchain
+langchain-community
+chromadb
+faiss-cpu
+pydantic-settings
+python-dotenv
+groq
+streamlit
+requests
+plotly
+gpt4all
