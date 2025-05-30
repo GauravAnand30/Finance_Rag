@@ -222,7 +222,7 @@ Here are a few screenshots showcasing the system in action:
     *(Replace `docs/realtime_data_demo.png` with your actual image path)*
 
 3.  **Document Upload Feature**
-    ![Document Upload Demo](docs/document_upload_demo.png)
+    ![Document Upload Demo](https://github.com/GauravAnand30/Finance_Rag/blob/main/Screenshot%202025-05-30%20120402.png)
     *(Replace `docs/document_upload_demo.png` with your actual image path)*
 
 ## Future Enhancements
