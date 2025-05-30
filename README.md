@@ -218,7 +218,7 @@ Here are a few screenshots showcasing the system in action:
     *(Replace `docs/intelligent_query_demo.png` with your actual image path)*
 
 2.  **Real-Time Data Page with Interactive Chart**
-    ![Real-time Data Demo](docs/realtime_data_demo.png)
+    ![Real-time Data Demo](https://github.com/GauravAnand30/Finance_Rag/blob/main/Screenshot%202025-05-30%20115842.png)
     *(Replace `docs/realtime_data_demo.png` with your actual image path)*
 
 3.  **Document Upload Feature**
